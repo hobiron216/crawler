@@ -1,0 +1,36 @@
+url detail : https://www.enanyang.my/政治/砂选举希盟用各党标志-陆兆福与败选甲州无关
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/文教/世界大学毕业生就业力-理大马大排名上升
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/百物腾涨-私烟料更猖獗
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/张玉刚调涨金马仑农业地租金-彭政府是菜价暴涨祸首
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/政治/“只会指责他人”-陆镇鸿抨某党领袖没原则
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/哈迪拒“全民共识”-除非巫统接受土团
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/首家线上电影院面市
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/【直播】雪州财政预算案
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/雪苏丹褫夺冯惠珠拿汀巴杜卡勋衔
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/专注疫后经济复苏-雪州今呈预算案
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/要闻/退出沙复兴党-莫哈末丁加入土团
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url
+url detail : https://www.enanyang.my/政治/马华国大各1员-甲州行政议员今宣誓就任
+first url : https://www.enanyang.my/要闻/英德拉要求女儿列失踪儿童 霹总警长没必要
+url != first url

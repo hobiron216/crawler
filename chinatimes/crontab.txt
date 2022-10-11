@@ -1,0 +1,13 @@
+#china media - chinatimes#
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/gongyicaijing_daily.py > /home/amel/chinatimes/gongyicaijing_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/yaowen_daily.py > /home/amel/chinatimes/yaowen_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/diaocha_daily.py > /home/amel/chinatimes/diaocha_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/zhengce_daily.py > /home/amel/chinatimes/zhengce_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/quyu_daily.py > /home/amel/chinatimes/quyu_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/zhengquan_daily.py > /home/amel/chinatimes/zhengquan_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/jinrong_daily.py > /home/amel/chinatimes/jinrong_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/gongsi_daily.py > /home/amel/chinatimes/gongsi_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/jiankang_daily.py > /home/amel/chinatimes/jiankang_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/dichan_daily.py > /home/amel/chinatimes/dichan_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/qiche_daily.py > /home/amel/chinatimes/qiche_daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinatimes/guandian_daily.py > /home/amel/chinatimes/guandian_daily_log.txt

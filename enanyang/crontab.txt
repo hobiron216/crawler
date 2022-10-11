@@ -1,0 +1,4 @@
+#chinese news - enanyang#
+* 03 * * * /root/anaconda3/bin/python /home/amel/enanyang/news-daily.py > /home/amel/enanyang/news_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/enanyang/economic-daily.py > /home/amel/enanyang/economic_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/enanyang/international-daily.py > /home/amel/enanyang/international_log.txt
