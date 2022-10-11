@@ -1,0 +1,9 @@
+#chinese media - chinadaily#
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinadaily/current-affairs-daily.py > /home/amel/chinadaily/current-affairs-daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinadaily/exclusive-daily.py > /home/amel/chinadaily/exclusive-daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinadaily/worldview-daily.py > /home/amel/chinadaily/worldview-daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinadaily/china-daily-online-review-daily.py > /home/amel/chinadaily/china-daily-online-review-daily_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/chinadaily/what-about-china-daily.py > /home/amel/chinadaily/what-about-china-daily_log.txt
+
+crontab -l => show crontab
+crontab -e => edit crontab
