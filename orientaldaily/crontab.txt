@@ -1,0 +1,11 @@
+#chinese news - orientaldaily#
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/advertorial-daily.py > /home/amel/orientaldaily/advertorial_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/business-daily.py > /home/amel/orientaldaily/business_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/entertainment-daily.py > /home/amel/orientaldaily/entertainment_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/international-daily.py > /home/amel/orientaldaily/international_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/local-daily.py > /home/amel/orientaldaily/local_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/nation-daily.py > /home/amel/orientaldaily/nation_log.txt
+* 03 * * * /root/anaconda3/bin/python /home/amel/orientaldaily/society-daily.py > /home/amel/orientaldaily/society_log.txt
+
+crontab -l => show crontab
+crontab -e => edit crontab

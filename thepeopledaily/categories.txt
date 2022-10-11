@@ -1,0 +1,82 @@
+the people daily categories :
+http://people.cn/
+
+politic : http://politics.people.com.cn/ :
+1 : http://politics.people.com.cn/GB/1024/index.html = 7 ; DONE (index 1, sisanya error as robot) => gedein sleep time => 1page index aja (udah ada 1minggu)
+2 : http://politics.people.com.cn/GB/1027/index.html = 7 ; DONE (error 403 forbidden using proxy) => gedein sleep time => 1page index aja (udah ada 1minggu)
+3 : http://politics.people.com.cn/GB/99014/index.html = 7 ; DONE => 1page index aja (udah ada 1minggu)
+4 : http://politics.people.com.cn/GB/389979/index.html = 7 ; otw  => 1page index aja (udah ada 1minggu)
+5 : http://politics.people.com.cn/GB/8198/index.html = ga running batch (total 2 page index) => 1page index aja (udah ada 1minggu)
+6 : http://politics.people.com.cn/GB/432731/index.html = 2 ; DONE => 1page index aja (udah ada 1minggu)
+7 : http://politics.people.com.cn/GB/431485/index.html = 1 ; DONE  (total 1 page index) => 1page index aja (udah ada 1minggu)
+
+5 : http://graphicnews.people.com.cn/index.html [SKIP]
+
+world : http://world.people.com.cn/ :
+1 : http://world.people.com.cn/GB/157278/index.html = 10 ; DONE
+2 : http://world.people.com.cn/GB/14549/index.html = 13 ; DONE
+3.1 : http://world.people.com.cn/GB/1029/42354/index.html = 10 ; DONE
+3.2 : http://world.people.com.cn/GB/1029/42355/index.html = 10 ; DONE
+3.3 : http://world.people.com.cn/GB/1029/42356/index.html = 10 ; DONE
+3.4 : http://world.people.com.cn/GB/1029/42361/index.html = 10 ; DONE
+3.5 : http://world.people.com.cn/GB/1029/42359/index.html = 10 ; DONE
+3.6 : http://world.people.com.cn/GB/1029/42408/index.html = 10 ; DONE
+4 : http://world.people.com.cn/GB/57507/index.html = 13 ; DONE
+8 : http://world.people.com.cn/GB/57506/index.html = 13 ; DONE
+
+7 : http://world.people.com.cn/GB/414349/ (isi video kosong) [SKIP]
+6 : http://world.people.com.cn/GB/57505/index.html(isi gambar) [SKIP]
+5 : http://world.people.com.cn/GB/107182/index.html (isi gambar) [SKIP] 
+9 : http://japan.people.com.cn/  [SKIP]
+10 : http://usa.people.com.cn/ [SKIP]
+11 : http://uk.people.com.cn/  [SKIP]
+12 : http://ru.people.com.cn/  [SKIP]
+13 : http://korea.people.com.cn/  [SKIP]
+14 : http://australia.people.com.cn/  [SKIP]
+ 
+military : http://military.people.com.cn/ :
+1 : http://military.people.com.cn/GB/172467/index.html = 13 ; DONE (.c_c>a)
+2 : http://military.people.com.cn/GB/52963/index.html = 7 ; DONE (title ga bs diencode dicode???=>detail pake lxml)
+3 : http://military.people.com.cn/GB/115150/index.html = 7 ; DONE
+4 : http://military.people.com.cn/GB/52936/index.html = 15 ; DONE (.list_14>li>a) forbidden
+5 : http://military.people.com.cn/GB/367527/index.html = 7 ; DONE  (title ga bs diencode dicode???=>detail pake lxml)
+6 : http://military.people.com.cn/GB/1077/index.html = 13 ; DONE (.l12bl>a) (detail ke homepage)
+7 : http://military.people.com.cn/GB/42969/index.html = 7 ; DONE
+8 : http://military.people.com.cn/GB/43331/index.html = 17 ; DONE (.fl.w685>div>div>strong>a) (.content.clear.clearfix>p)
+9 : http://military.people.com.cn/GB/367540/index.html = 10 ; DONE (.p2_left.d2_left.fl>li>ul>li>a) (.box_con>p)
+
+10 : http://military.people.com.cn/GB/8221/431474/index.html (isinya banyak, gajelas?) [SKIP]
+
+leaders : http://leaders.people.com.cn/ :
+1 : http://liuyan.people.com.cn/  [SKIP]
+2 : http://ldzl.people.com.cn/dfzlk/front/firstPage.htm  [SKIP]
+5 : http://leaders.people.com.cn/GB/71484/404493/404494/index.html (isinya banyak, gajelas?) [SKIP]
+
+1 : http://leaders.people.com.cn/GB/70110/70111/index.html = 7 ; DONE
+2 : http://leaders.people.com.cn/GB/70117/index.html = 7 ; DONE
+3 : http://leaders.people.com.cn/GB/70118/index.html = 7 ; DONE
+4 : http://leaders.people.com.cn/GB/70157/index.html = 6 ; DONE
+5 : http://leaders.people.com.cn/GB/70120/index.html = 7 ; DONE
+6 : http://leaders.people.com.cn/GB/372900/index.html = 40 ; DONE (.hdNews.clearfix>p>strong>a) (.box_con>p) ???
+
+legal : http://legal.people.com.cn/ :
+1 : http://legal.people.com.cn/GB/188502/index.html = 8 ; DONE
+2 : http://legal.people.com.cn/GB/203936/index.html = 7 ; DONE
+3 : http://legal.people.com.cn/GB/42729/index.html = 10 ; DONE
+4 : http://legal.people.com.cn/GB/204445/index.html = 10 ; DONE
+5 : http://legal.people.com.cn/GB/204446/index.html = 7 ; DONE
+6 : http://legal.people.com.cn/GB/204447/index.html = 7 ; DONE
+
+8 : http://society.people.com.cn/  [SKIP]
+9 : http://npc.people.com.cn/  [SKIP]
+
+society : http://society.people.com.cn/
+1 : http://society.people.com.cn/GB/136657/index.html = 10 ; DONE 
+2 : http://society.people.com.cn/GB/86800/index.html = 7 ; DONE
+3 : http://society.people.com.cn/GB/1062/index.html = 7 ; DONE
+4 : http://society.people.com.cn/GB/41158/index.html = 7 ; DONE
+5 : http://society.people.com.cn/GB/229589/index.html = 21 ; DONE (.w600.p1_5.clear>h2>a)
+
+7 : http://legal.people.com.cn/  [SKIP]
+8 : http://npc.people.com.cn/  [SKIP]
+1 : http://society.people.com.cn/GB/index.html [SKIP]

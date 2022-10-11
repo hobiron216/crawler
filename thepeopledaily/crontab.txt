@@ -1,0 +1,56 @@
+#china media - thepeopledaily#
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-1.py > /home/amel/thepeopledaily/daily/logs/world-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-2.py > /home/amel/thepeopledaily/daily/logs/world-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.1.py > /home/amel/thepeopledaily/daily/logs/world-3.1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.2.py > /home/amel/thepeopledaily/daily/logs/world-3.2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.3.py > /home/amel/thepeopledaily/daily/logs/world-3.3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.4.py > /home/amel/thepeopledaily/daily/logs/world-3.4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.5.py > /home/amel/thepeopledaily/daily/logs/world-3.5_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-3.6.py > /home/amel/thepeopledaily/daily/logs/world-3.6_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-4.py > /home/amel/thepeopledaily/daily/logs/world-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/world-8.py > /home/amel/thepeopledaily/daily/logs/world-8_log.txt
+
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-1.py > /home/amel/thepeopledaily/daily/logs/military-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-2.py > /home/amel/thepeopledaily/daily/logs/military-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-3.py > /home/amel/thepeopledaily/daily/logs/military-3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-4.py > /home/amel/thepeopledaily/daily/logs/military-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-5.py > /home/amel/thepeopledaily/daily/logs/military-5_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-6.py > /home/amel/thepeopledaily/daily/logs/military-6_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-7.py > /home/amel/thepeopledaily/daily/logs/military-7_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-8.py > /home/amel/thepeopledaily/daily/logs/military-8_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/military-9.py > /home/amel/thepeopledaily/daily/logs/military-9_log.txt
+
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-1.py > /home/amel/thepeopledaily/daily/logs/leaders-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-2.py > /home/amel/thepeopledaily/daily/logs/leaders-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-3.py > /home/amel/thepeopledaily/daily/logs/leaders-3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-4.py > /home/amel/thepeopledaily/daily/logs/leaders-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-5.py > /home/amel/thepeopledaily/daily/logs/leaders-5_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/leaders-6.py > /home/amel/thepeopledaily/daily/logs/leaders-6_log.txt
+
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-1.py > /home/amel/thepeopledaily/daily/logs/legal-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-2.py > /home/amel/thepeopledaily/daily/logs/legal-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-3.py > /home/amel/thepeopledaily/daily/logs/legal-3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-4.py > /home/amel/thepeopledaily/daily/logs/legal-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-5.py > /home/amel/thepeopledaily/daily/logs/legal-5_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/legal-6.py > /home/amel/thepeopledaily/daily/logs/legal-6_log.txt
+
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/society-1.py > /home/amel/thepeopledaily/daily/logs/society-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/society-2.py > /home/amel/thepeopledaily/daily/logs/society-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/society-3.py > /home/amel/thepeopledaily/daily/logs/society-3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/society-4.py > /home/amel/thepeopledaily/daily/logs/society-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/society-5.py > /home/amel/thepeopledaily/daily/logs/society-5_log.txt
+
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-1.py > /home/amel/thepeopledaily/daily/logs/politics-1_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-2.py > /home/amel/thepeopledaily/daily/logs/politics-2_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-3.py > /home/amel/thepeopledaily/daily/logs/politics-3_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-4.py > /home/amel/thepeopledaily/daily/logs/politics-4_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-5.py > /home/amel/thepeopledaily/daily/logs/politics-5_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-6.py > /home/amel/thepeopledaily/daily/logs/politics-6_log.txt
+00 03 * * * /root/anaconda3/bin/python /home/amel/thepeopledaily/daily/politics-7.py > /home/amel/thepeopledaily/daily/logs/politics-7_log.txt
+
+
+
+
+
+
+
