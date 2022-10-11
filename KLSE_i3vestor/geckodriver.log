@@ -1,0 +1,57 @@
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277097461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNtjOGK"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+libGL error: unable to load driver: swrast_dri.so
+libGL error: failed to load driver: swrast
+Exiting due to channel error.
+Exiting due to channel error.
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277182874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBrE3Zf"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277186331	Marionette	INFO	Listening on port 32947
+1624277186386	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277200419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilettC13Y"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277204529	Marionette	INFO	Listening on port 41105
+1624277204543	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277322873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCiYRXx"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277343353	Marionette	INFO	Listening on port 40715
+1624277343444	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277433388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3GHnPq"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277438377	Marionette	INFO	Listening on port 32791
+1624277438419	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277506221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMq0JUQ"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277524551	Marionette	INFO	Listening on port 42959
+1624277524589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624277543194	Marionette	INFO	Stopped listening on port 42959
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+1624277608293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileysRYkM"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally without any error message
+Running without a11y support!
+1624277636722	Marionette	INFO	Listening on port 37163
+1624277636812	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

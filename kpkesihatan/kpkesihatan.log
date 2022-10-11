@@ -1,0 +1,362 @@
+page :1
+Traceback (most recent call last):
+  File "kpkesihatan.py", line 151, in <module>
+    self.telegram_bot_sendtext(str(message))
+NameError: name 'self' is not defined
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+page :1
+data : 1
+page :1
+data : 1
+gagal kirim telegram
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 2
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
+page :1
+data : 1
