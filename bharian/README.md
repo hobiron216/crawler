@@ -1,5 +1,3 @@
-# KLSE_i3vestor 
-
 This is example result 
 
 ```python
