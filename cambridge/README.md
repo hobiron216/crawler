@@ -1,3 +1,4 @@
+``` 
 [
   {
     "word": "Social",
@@ -64,3 +65,4 @@
     "type": "adjective"
   }
 ]
+```
